@@ -1,5 +1,7 @@
 # Personal AI Workflow Agent Instructions
 
+> 本文版本为 Agent 指令文档版本，不代表系统版本。2026-09-18 修订：校正规则入口；系统版本见更新日志。
+
 
 版本：
 
@@ -124,8 +126,9 @@ README.md
 
 重点：
 
-- Codex规则
-- AI行为规则
+- 通用 Codex 规则：[Codex 工作规范](00_%E7%B3%BB%E7%BB%9F/Codex%E8%A7%84%E5%88%99.md%20v0.1)（位于 00_系统，已在第二层读取）
+- 数学教学规则：[AI 数学导师规则](02_%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE/AI%E6%95%B0%E5%AD%A6%E5%AF%BC%E5%B8%88%E8%A7%84%E5%88%99.md)
+- 学习记录模板：[学习记录模板](02_%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95%E6%A8%A1%E6%9D%BF.md)
 
 
 
